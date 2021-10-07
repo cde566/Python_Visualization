@@ -8,9 +8,17 @@ First, you can install the pyecharts as below:
 ```shell
 pip install pyecharts==1.9.0 -U
 ```
-
+---
 ## Start
 Some examples for visualization.
 
-### Bar
-bar.ipynb
+### Single chart
+* bar.ipynb
+* calendar.ipynb
+* funnel.ipynb
+* gauge.ipynb
+* world_map.ipynb
+
+### Multi chart
+* page.ipynb
+* tab.ipynb
